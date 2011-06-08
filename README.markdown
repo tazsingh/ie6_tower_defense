@@ -13,6 +13,13 @@ rid of IE6 flaws.
 
 Good luck!
 
+Getting Started
+---------------
+
+Make sure the dependencies are installed by running `bundle`.
+
+Then you can proceed by executing `ruby lib/ie6_tower_defense.rb`.
+
 Contributing
 ------------
 
