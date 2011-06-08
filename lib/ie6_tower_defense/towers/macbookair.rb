@@ -1,0 +1,3 @@
+class MacBookAir < Tower
+
+end
